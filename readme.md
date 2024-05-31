@@ -62,7 +62,7 @@ To run this project locally, please follow these steps:
 3. Ensure you have Jupyter Notebook installed to run the provided notebook.
 
 ## Usage
-To use this project, open the `final_.ipynb` notebook in Jupyter Notebook and follow the steps outlined in the notebook to preprocess the data, train the models, and evaluate their performance.
+To use this project, open the `churn_prediction_analysis.ipynb` notebook in Jupyter Notebook and follow the steps outlined in the notebook to preprocess the data, train the models, and evaluate their performance.
 
 ## Results
 The results of our study indicate that hybrid models, which include deep learning algorithms, tend to outperform traditional and ensemble machine learning algorithms in predicting customer churn. Detailed results, including performance metrics and visualizations, can be found in the `Results` section of the provided notebook.
@@ -84,9 +84,9 @@ Future work may include:
 - Exploring the use of transfer learning and domain adaptation techniques.
 
 ## Contributors
-- **Ameer Ahmed Almaamari** - [391115994@example.com](mailto:391115994@example.com)
-- **Salem Muhammad Almutiri** - [382124012@example.com](mailto:382124012@example.com)
-- **Muhammad Faleh Almutiri** - [381117591@example.com](mailto:381117591@example.com)
+- **Amir AL-Maamari** 
+- **Salem Almutiri** 
+- **Muhammad Almutiri** 
 - **Supervisor:** Dr. Ali Mustafa Qamar
 
 ## License
